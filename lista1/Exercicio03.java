@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Exercicio03 {
     public static void main(String[] args) {
         int num1, num2, soma;
         Scanner input = new Scanner(System.in);

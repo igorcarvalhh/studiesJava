@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio4 {
+public class Exercicio04 {
     public static void main(String[] args) {
         float nota1, nota2, nota3, nota4, media;
         Scanner input = new Scanner(System.in); 

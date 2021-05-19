@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio7 {
+public class Exercicio07 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         float ladoQuadrado, areaQuadrado;
